@@ -1,5 +1,5 @@
 {
-        "name": "Roquie/captcha",
+        "name": "roquie/captcha",
         "type": "kohana-module",
         "license": "MIT",
         "description": "Captcha module for Kohana",
