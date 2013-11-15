@@ -2,7 +2,7 @@
         "name": "Roquie/captcha",
         "type": "kohana-module",
         "license": "MIT",
-        "description": "Email module for Kohana",
+        "description": "Captcha module for Kohana",
         "keywords": [
                 "kohana", "captcha"
         ],
